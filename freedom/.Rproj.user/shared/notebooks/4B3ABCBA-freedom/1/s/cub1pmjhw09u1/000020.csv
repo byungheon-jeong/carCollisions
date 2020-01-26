@@ -1,4 +1,0 @@
-"0","#boxplot"
-"0","boxplot(asia_,europe_,africa_,americas_,"
-"0","        names = c(""asia_oceania"",""europe"",""africa"",""americas""),"
-"0","        main=""Economic Freedom of Government by Region"")"
