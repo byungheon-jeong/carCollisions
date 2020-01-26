@@ -1,0 +1,4 @@
+"0","#boxplot"
+"0","boxplot(asia_hf_score,europe_hf_score,africa_hf_score,americas_hf_score,"
+"0","        names = c(""asia_oceania"",""europe"",""africa"",""americas""),"
+"0","        main=""Human Freedom Score by Region"")"
